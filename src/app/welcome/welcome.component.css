@@ -1,0 +1,52 @@
+
+.card {
+   justify-content: center;
+   margin: 10rem;
+   padding: 30px;
+   text-align: center;
+   text-decoration: none;
+}
+.r {
+   padding-left: 1rem;
+}
+
+.bol {
+   font-family: 'Josefin Sans', sans-serif;
+   color: red;
+   text-align: center;
+   padding-top: 30px;
+   font-weight: bolder;
+   text-decoration: underline;
+}
+
+li {
+   text-align: left;
+}
+
+.wtqa {
+   display: flex;
+   font-weight: bolder;
+   justify-content: center;
+   overflow: hidden;
+}
+
+.btn {
+   font-weight: 700;
+   color: greenyellow;
+   background-color: green;
+   padding-left: 15px;
+   padding-right: 15px;
+   margin-left: 0 auto;
+   border-radius: 5rem;
+   border: 1px solid rgb(68, 59, 59);
+}
+
+.btn:hover {
+   color: rgb(0, 255, 17);
+   background-color: rgb(67, 67, 43);
+}
+
+input{
+   text-align: center;
+   
+}

@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="card">
+        <h1 class="wtqa">Welcome to Quiz Application</h1>
+        <p class="disc">This Quiz Contains Total 9 Questions.EachQuestion Holds 10 Points </p>
+        <h4 class="r">Rules</h4>
+        <ol>
+            <li>Correct Question Gives You 10 Points</li>
+            <li>Incorrect Question reduce 10 Points</li>
+            <li>You Have 10 Seconds</li>
+            <li>Refreshing The Page Will Reset The Quiz</li>
+        </ol>
+        <br>
+        <h1 class="bol">BEST OF LUCK!!!</h1>
+        <br><br>
+        <div class="name col-md-15 my-3">
+            <input #name type="text" class="form-control" placeholder="Enter Your Name">
+        </div>
+        <button class="btn" routerLink="/question" (click)="startQuiz()">Start Quiz</button>
+    </div>
+</div>
