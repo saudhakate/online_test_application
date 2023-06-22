@@ -1,0 +1,66 @@
+/* .at {
+    font-weight: 600;
+    text-decoration: underline;
+    padding-right: 1.5rem;
+}
+
+.card{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-top: 1rem;
+   
+
+} */
+
+
+
+/* .submit {
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.submit:hover {
+    background-color: blueviolet;
+} */
+
+/* .btn {
+    font-size: 3rem;
+   padding-left: 20rem;
+   padding-top: 50px;
+   text-decoration: none;
+}
+
+.options{
+    text-align: justify;
+
+}
+
+.question{
+    text-align: justify;
+    padding-left: 2.3rem;
+    padding-top: 3rem;
+} */
+
+.card{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+li .card:hover{
+    border: 1px solid rgb(82, 82, 179);
+}
+
+ol{
+    padding: 0;
+}
